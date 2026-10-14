@@ -1,4 +1,4 @@
-#Case Study: Low severity risk evaluation
+# Case Study: Low severity risk evaluation
 **Risk Management**
 
 ## Scenario Summary
