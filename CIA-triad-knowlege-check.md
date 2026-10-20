@@ -1,4 +1,5 @@
 # Case Study: Availability
+**CIA Triad**
 
 ## Briefing Summary
 What part of the CIA triad involves making sure that users that are authorized to resources have access to those resources?
